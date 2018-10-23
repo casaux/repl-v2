@@ -53,7 +53,7 @@ html,body{
 }
 .student-details ul.grid li:nth-child(2n + 1){background-color:whitesmoke;}
 .student-details ul.grid li:first-child{border-top: .07rem dashed #ebedf2;}
-.student-details ul.grid li div {float:left;padding:1rem;vertical-align: middle;}
+.student-details ul.grid li div {float:left;padding:.2rem;vertical-align: middle;}
 .student-details ul.grid li {position:relative;}
 .student-details .student{width: 35%;}
 .student-details .student-name {/*font-weight:600;*/display: block;}
@@ -108,7 +108,7 @@ input[type=number]::-webkit-outer-spin-button {
   margin:.8rem 0;
   border-bottom: .07rem dashed #ebedf2;
   border-top: .07rem dashed #ebedf2;
-  padding-top:.8rem;
+  /*padding-top:.8rem;*/
 }
 /* Form help */
 label,.label{
